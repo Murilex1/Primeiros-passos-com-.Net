@@ -1,0 +1,15 @@
+C:\Users\MuriloCaso\Documents\MeusProjetos\C#\Dio.me C#\bin\Debug\net6.0\Dio.meC#.exe
+C:\Users\MuriloCaso\Documents\MeusProjetos\C#\Dio.me C#\bin\Debug\net6.0\Dio.meC#.deps.json
+C:\Users\MuriloCaso\Documents\MeusProjetos\C#\Dio.me C#\bin\Debug\net6.0\Dio.meC#.runtimeconfig.json
+C:\Users\MuriloCaso\Documents\MeusProjetos\C#\Dio.me C#\bin\Debug\net6.0\Dio.meC#.dll
+C:\Users\MuriloCaso\Documents\MeusProjetos\C#\Dio.me C#\bin\Debug\net6.0\Dio.meC#.pdb
+C:\Users\MuriloCaso\Documents\MeusProjetos\C#\Dio.me C#\obj\Debug\net6.0\Dio.meC#.csproj.AssemblyReference.cache
+C:\Users\MuriloCaso\Documents\MeusProjetos\C#\Dio.me C#\obj\Debug\net6.0\Dio.meC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MuriloCaso\Documents\MeusProjetos\C#\Dio.me C#\obj\Debug\net6.0\Dio.meC#.AssemblyInfoInputs.cache
+C:\Users\MuriloCaso\Documents\MeusProjetos\C#\Dio.me C#\obj\Debug\net6.0\Dio.meC#.AssemblyInfo.cs
+C:\Users\MuriloCaso\Documents\MeusProjetos\C#\Dio.me C#\obj\Debug\net6.0\Dio.meC#.csproj.CoreCompileInputs.cache
+C:\Users\MuriloCaso\Documents\MeusProjetos\C#\Dio.me C#\obj\Debug\net6.0\Dio.meC#.dll
+C:\Users\MuriloCaso\Documents\MeusProjetos\C#\Dio.me C#\obj\Debug\net6.0\refint\Dio.meC#.dll
+C:\Users\MuriloCaso\Documents\MeusProjetos\C#\Dio.me C#\obj\Debug\net6.0\Dio.meC#.pdb
+C:\Users\MuriloCaso\Documents\MeusProjetos\C#\Dio.me C#\obj\Debug\net6.0\Dio.meC#.genruntimeconfig.cache
+C:\Users\MuriloCaso\Documents\MeusProjetos\C#\Dio.me C#\obj\Debug\net6.0\ref\Dio.meC#.dll
